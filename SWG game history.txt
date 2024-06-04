@@ -1,0 +1,1 @@
+On 2022-03-12 09:19:54.719564, Prerna won the game with score= 4, beating computer who had score= 2 with 4 ties.
